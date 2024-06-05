@@ -59,7 +59,7 @@
 ## Top Open Source -
 [![ReactTS](https://github-readme-stats.vercel.app/api/pin/?username=devusmanrafiq&repo=react-ts-starter&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/devusmanrafiq/react-ts-starter)
 [![NextTS](https://github-readme-stats.vercel.app/api/pin/?username=devusmanrafiq&repo=next-ts-starter&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/devusmanrafiq/next-ts-starter)
-[![Zunnooran Readme](https://github-readme-stats.vercel.app/api/pin/?username=Zunnooran&repo=devusmanrafiq&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/devusmanrafiq/Zunnooran)
+[![Zunnooran Readme](https://github-readme-stats.vercel.app/api/pin/?username=Zunnooran&repo=Zunnooran&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/devusmanrafiq/Zunnooran)
 
 <p align="left">
   <a href="https://github.com/Zunnooran?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -91,6 +91,6 @@
 </p>
 
 
-<!--
-![Usman's Graph](https://github-readme-activity-graph.vercel.app/graph?username=devusmanrafiq&custom_title=Usman%20Rafiq's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
--->
+
+![Zunnooran Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zunnooran&custom_title=Zunnooran%20Alvi's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
