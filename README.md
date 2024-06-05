@@ -1,21 +1,6 @@
-<!--
-<h2 align="center">
-  Welcome to Al Siam World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
--->
-
-<!--
-<p align="center">
-  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
-
- -->
-
-<!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b>Usman Rafiq</b>
+                <b>Zunnooran Mustafa Alvi</b>
         </samp>
 </h3>
 
@@ -23,7 +8,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a Front End Developer from <b>Islamabad, Pakistan</b> 」
+    「 I am a Full Stack Developer from <b>Islamabad, Pakistan</b> 」
     <br>
     「 Working at <a href="https://www.irsolutions.tech/" target="_blank">IR Solutions</a> 」
     <br>
@@ -32,17 +17,14 @@
 </p>
 
 <p align="center">
- <a href="https://linkedin.com/in/usmandegrt" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="usmandegrt"/>
+ <a href="https://linkedin.com/in/zunnooranalvi" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="zunnooran"/>
  </a>
- <a href="https://twitter.com/usmandegrt" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://instagram.com/usmandegrt" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="usmandegrt" />
+ <a href="https://instagram.com/x__.alvi_" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="zunnooran" />
  </a> 
- <a href="https://facebook.com/usmandegrt" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="usmandegrt"  />
+ <a href="https://www.facebook.com/people/Zunnoorain-Alvi/pfbid02oX5NdCBbK5ci9hndxLYNi9U8mwwQn74k96ocfKGrvfSBJKX9QVJsLKrX7kcogFVyl/?comment_id=Y29tbWVudDo0NTM2MDgyMzUzMTY3NTA5XzQ1MzkxNTQ5Nzk1MjY5MTM%3D" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="zunnooran"  />
   </a> 
 </p>
 
@@ -74,7 +56,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![FontAwesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
 <br/>
-<!--
+
 ## Top Open Source -
 [![ReactTS](https://github-readme-stats.vercel.app/api/pin/?username=devusmanrafiq&repo=react-ts-starter&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/devusmanrafiq/react-ts-starter)
 [![NextTS](https://github-readme-stats.vercel.app/api/pin/?username=devusmanrafiq&repo=next-ts-starter&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/devusmanrafiq/next-ts-starter)
@@ -85,25 +67,25 @@
 </p>
 
 <br/>
--->
+
 <hr/>
 <br/>
 <p align="center">
-  <a href="https://github.com/devusmanrafiq">
+  <a href="https://github.com/Zunnooran">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=devusmanrafiq&theme=radical&border=7F3FBF&background=0D1117" alt="Usman's GitHub streak"/>
   </a>
 </p>
 
-<!--
+
 <p align="center">
-  <a href="https://github.com/devusmanrafiq">
+  <a href="https://github.com/Zunnooran">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devusmanrafiq&theme=radical" alt="Usman's GitHub Contribution"/>
   </a>
 </p>
--->
+
 
 <p align="center" >
-<a href="https://github.com/devusmanrafiq">  
+<a href="https://github.com/Zunnooran">  
     <img alt="Usman's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=devusmanrafiq&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="180em">
   <img alt="Usman's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=devusmanrafiq&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="180em">
 </a>   
