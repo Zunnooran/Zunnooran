@@ -63,7 +63,7 @@
 [![Usman Rafiq's Readme](https://github-readme-stats.vercel.app/api/pin/?username=devusmanrafiq&repo=devusmanrafiq&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/devusmanrafiq/devusmanrafiq)
 
 <p align="left">
-  <a href="https://github.com/devusmanrafiq?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/Zunnooran?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -86,8 +86,8 @@
 
 <p align="center" >
 <a href="https://github.com/Zunnooran">  
-    <img alt="Usman's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=devusmanrafiq&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="180em">
-  <img alt="Usman's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=devusmanrafiq&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="180em">
+    <img alt="Zunnooran Alvi Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Zunnooran&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="180em">
+  <img alt="Zunnooran Alvi Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Zunnooran&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="180em">
 </a>   
 </p>
 
