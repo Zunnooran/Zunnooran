@@ -71,14 +71,14 @@
 <br/>
 <p align="center">
   <a href="https://github.com/Zunnooran">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devusmanrafiq&theme=radical&border=7F3FBF&background=0D1117" alt="Usman's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zunnooran&theme=radical&border=7F3FBF&background=0D1117" alt="Zunnooran's GitHub streak"/>
   </a>
 </p>
 
 
 <p align="center">
   <a href="https://github.com/Zunnooran">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zunnooran&theme=radical" alt="Usman's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zunnooran&theme=radical" alt="Zunnooran's GitHub Contribution"/>
   </a>
 </p>
 
